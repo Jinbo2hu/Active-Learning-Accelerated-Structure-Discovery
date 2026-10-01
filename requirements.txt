@@ -1,0 +1,8 @@
+# Tested runtime environment for the three production scripts.
+ase==3.24.0
+dscribe==2.1.2
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.2.1
+scipy==1.14.1
+threadpoolctl==3.6.0
